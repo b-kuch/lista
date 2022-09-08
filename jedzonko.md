@@ -1,8 +1,9 @@
 # Gdańsk
 1. Gyozilla
 1. Mąka i Kawa
-1. Sayori sushi
+1. Mr. Sushi
 1. Pierogi Lwowskie
+1. Burger Majster
 
 # Poznań
 1. Dmuchawce
